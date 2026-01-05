@@ -1,0 +1,3 @@
+#To print the numbers in series 8,11,14,....,89
+for i in range(8,90,+3):
+    print(i)
